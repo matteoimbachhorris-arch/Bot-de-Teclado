@@ -37,6 +37,14 @@ if hasattr(key, 'char') and key.char == TECLA_OBJETIVO:
 -Python 3.x instalado en el sistema.
 -Permisos de administrador si el juego o aplicación objetivo bloquea eventos de simulación de teclado.
 
+## Demo
+
+Si está habilitado GitHub Pages en este repo:
+
+```
+https://matteoimbachhorris-arch.github.io/Bot-de-Teclado/
+```
+
 ## Nota de seguridad
 
 -Tené en cuenta los términos de servicio (ToS) de los juegos en los que utilices scripts de automatización o macros, ya que algunos sistemas anti-cheat pueden detectarlos.
