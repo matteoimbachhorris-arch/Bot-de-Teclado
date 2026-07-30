@@ -6,7 +6,8 @@ Script en Python para automatizar pulsaciones de teclado con temporizador de pre
 
 1. Instalá las dependencias necesarias en la consola:
 
-```
+
 Bash
+```
 pip install pynput pydirectinput
 ```
