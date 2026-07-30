@@ -42,7 +42,7 @@ hilo.start()
 
 If GitHub Pages is enabled in this repo:
 ```
-
+https://matteoimbachhorris-arch.github.io/Keyboard-Bot/
 ```
 ## Security note
 
