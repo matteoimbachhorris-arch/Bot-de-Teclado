@@ -1,3 +1,12 @@
-[Habilitar Hack.txt](https://github.com/user-attachments/files/30481149/Habilitar.Hack.txt)
-cd %userprofile%\Desktop\Proyectos
-python Hack.py
+# Bot Teclado
+
+Script en Python para automatizar pulsaciones de teclado con temporizador de precisión, 100% ejecutable en local. Diseñado para juegos y aplicaciones que requieren respuestas temporizadas exactas sin intervención manual constante.
+
+## Uso
+
+1. Instalá las dependencias necesarias en la consola:
+
+```
+Bash
+pip install pynput pydirectinput
+```
